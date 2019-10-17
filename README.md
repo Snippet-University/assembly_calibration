@@ -1,5 +1,6 @@
 # assembly_calibration
-The 1st repo of all new projects that need tests conducted.
+The 1st repo of all new projects that are to undergo tests. Also known the 'assembler'; 
+the repo maintains the debugger and runtime testing for all scripts.
 
 Introduction to the Assembly Calibration Workbench
 
