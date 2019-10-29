@@ -11,7 +11,10 @@ entered into the storefront using general tagging and markup for testing purpose
 
 #Attributions: 
 
-#Programs Used : Visual Studio (Assembly compiler)
+#Programs Used : Visual Studio (Assembly compiler), Notepad++ (see below)
+
+https://github.com/notepad-plus-plus/notepad-plus-plus
+
 
 
 
